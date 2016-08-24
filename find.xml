@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File 'C:\aspectj1.8\lib\aspectjrt.jar!\org\aspectj\lang\JoinPoint.class'" />
     <option name="defaultScopeName" value="File 'C:\aspectj1.8\lib\aspectjrt.jar!\org\aspectj\lang\JoinPoint.class'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File 'C:\aspectj1.8\lib\aspectjrt.jar!\org\aspectj\lang\JoinPoint.class'" />
   </component>
 </application>
