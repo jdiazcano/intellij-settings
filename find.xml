@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'C:\aspectj1.8\lib\aspectjrt.jar!\org\aspectj\lang\JoinPoint.class'" />
-    <option name="defaultScopeName" value="File 'C:\aspectj1.8\lib\aspectjrt.jar!\org\aspectj\lang\JoinPoint.class'" />
+    <option name="customScope" value="File 'G:\homedev\wastedontwitch\pircbotx\src\main\java\org\pircbotx\UserChannelDao.java'" />
+    <option name="defaultScopeName" value="File 'G:\homedev\wastedontwitch\pircbotx\src\main\java\org\pircbotx\UserChannelDao.java'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'C:\aspectj1.8\lib\aspectjrt.jar!\org\aspectj\lang\JoinPoint.class'" />
+    <option name="SEARCH_SCOPE" value="File 'G:\homedev\wastedontwitch\pircbotx\src\main\java\org\pircbotx\UserChannelDao.java'" />
   </component>
 </application>
