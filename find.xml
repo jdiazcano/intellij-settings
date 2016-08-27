@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'G:\homedev\wastedontwitch\pircbotx\src\main\java\org\pircbotx\UserChannelDao.java'" />
-    <option name="defaultScopeName" value="File 'G:\homedev\wastedontwitch\pircbotx\src\main\java\org\pircbotx\UserChannelDao.java'" />
+    <option name="customScope" value="Directory 'G:\homedev\wastedontwitch\pircbotx'" />
+    <option name="defaultScopeName" value="Directory 'G:\homedev\wastedontwitch\pircbotx'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File 'G:\homedev\wastedontwitch\pircbotx\src\main\java\org\pircbotx\UserChannelDao.java'" />
+    <option name="SEARCH_SCOPE" value="Directory 'G:\homedev\wastedontwitch\pircbotx'" />
   </component>
 </application>
