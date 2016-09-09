@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory 'G:\homedev\wastedontwitch\pircbotx'" />
-    <option name="defaultScopeName" value="Directory 'G:\homedev\wastedontwitch\pircbotx'" />
+    <option name="customScope" value="File 'G:\homedev\wastedontwitch\kappa\src\main\kotlin\com\treecat\kappa\emotecounter\MoveJob.java'" />
+    <option name="defaultScopeName" value="File 'G:\homedev\wastedontwitch\kappa\src\main\kotlin\com\treecat\kappa\emotecounter\MoveJob.java'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory 'G:\homedev\wastedontwitch\pircbotx'" />
+    <option name="SEARCH_SCOPE" value="File 'G:\homedev\wastedontwitch\kappa\src\main\kotlin\com\treecat\kappa\emotecounter\MoveJob.java'" />
   </component>
 </application>
